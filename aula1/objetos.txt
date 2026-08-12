@@ -1,0 +1,8 @@
+Tema: Cantores
+Objetos: Michael Jackson, Exaltasamba, Zeca Pagodinho
+Características: Michael Jackson = cantor de pop, negro, morto
+                 Exaltasamba = cantor de samba, brasileiro, sucesso
+                 Zeca Pagodinho = cantor de pagode, vivo, velho
+Comportamentos: Michael Jackson = cantar, morrer
+                Exaltasamba = dançar, viver
+                Zeca Pagodinho = tocar, escrever                    
